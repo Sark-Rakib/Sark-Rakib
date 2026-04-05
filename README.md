@@ -44,30 +44,6 @@ I enjoy turning ideas into real-world products with clean UI and scalable backen
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sark-Rakib&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false" />
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Sark-Rakib&theme=blueberry&hide_border=false" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sark-Rakib&theme=blueberry&hide_border=false&layout=compact" />
-
-</div>
-
----
-
-## 🔝 Top Contributions
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Sark-Rakib&limit=5&theme=transparent&combine_all_yearly_contributions=true" />
-
----
-
 ## 🌐 Connect With Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/sarkrakib)
