@@ -10,7 +10,7 @@
 
 ---
 
-<img src="https://pbs.twimg.com/profile_banners/1563249514739167232/1763491252/1080x360" width="100%" />
+<img src="https://media.licdn.com/dms/image/v2/D5616AQF0RVpDKrYukg/profile-displaybackgroundimage-shrink_200_800/B56Z1fRDV9HoAU-/0/1775419800468?e=1779926400&v=beta&t=TAHgG2xt-RDQv5H8V0eA5Ba7pF5YgQHzRveBNCiQyYA" width="100%" />
 
 ---
 
@@ -50,12 +50,6 @@ I enjoy turning ideas into real-world products with clean UI and scalable backen
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/sarkrakib)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakib-sarker-)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Cap_tain01)
-
----
-
-## 👀 Profile Views
-
-[![](https://visitcount.itsvg.in/api?id=Sark-Rakib&icon=0&color=0)]()
 
 ---
 
