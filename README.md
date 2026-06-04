@@ -10,7 +10,7 @@
 
 ---
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQF0RVpDKrYukg/profile-displaybackgroundimage-shrink_200_800/B56Z1fRDV9HoAU-/0/1775419800468?e=1779926400&v=beta&t=TAHgG2xt-RDQv5H8V0eA5Ba7pF5YgQHzRveBNCiQyYA" width="100%" />
+<img src="./assets/banner.png" width="100%" />
 
 ---
 
