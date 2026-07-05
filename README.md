@@ -62,31 +62,6 @@ I also have practical experience with the **MERN Stack (MongoDB, Express.js, Rea
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛍️ Lunor
-
-Modern E-commerce platform with authentication, product filtering, shopping cart, responsive UI and admin features.
-
-🔗 **Live Demo:** YOUR_LINK
-💻 **Repository:** YOUR_REPO
-
-### 🩸 Blood Donation Management System
-
-A full-stack platform connecting blood donors and recipients with role-based dashboards and donation management.
-
-🔗 **Live Demo:** YOUR_LINK
-💻 **Repository:** YOUR_REPO
-
-### 💬 Messenger App
-
-A modern real-time messaging application built with AI assistance featuring a clean and responsive chat interface.
-
-🔗 **Live Demo:** YOUR_LINK
-💻 **Repository:** YOUR_REPO
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
