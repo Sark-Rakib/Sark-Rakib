@@ -1,11 +1,13 @@
 <div align="center">
 
-# 👋 Hey, I'm Rakib Sarker
+# Hey, I'm Rakib Sarker
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+Next.js+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 <p>
-💻 Frontend Developer • ⚛️ React & Next.js • 🌱 Learning MERN Stack
+💻 Frontend Developer
+⚛️ React & Next.js 
+🚀 MERN Stack Developer
 </p>
 
 <p>
@@ -26,7 +28,7 @@
 
 I'm a **Frontend Developer** passionate about building modern, responsive, and user-friendly web applications.
 
-My core expertise includes **React.js**, **Next.js**, **JavaScript (ES6+)**, **TypeScript**, and **Tailwind CSS**, with a strong focus on creating clean, accessible, and high-performance user interfaces.
+My core expertise includes **React.js**, **Next.js**, **JavaScript (ES6+)**, and **Tailwind CSS**, with a strong focus on creating clean, accessible, and high-performance user interfaces.
 
 I also have practical experience with the **MERN Stack (MongoDB, Express.js, React, and Node.js)**, allowing me to build and collaborate on full-stack applications.
 
@@ -39,25 +41,24 @@ I also have practical experience with the **MERN Stack (MongoDB, Express.js, Rea
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-
-
-\
-
-### ⚙️ Backend
-
-
-
-\
-
-### 🧰 Tools
-
-
-
-
-\
+### Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
