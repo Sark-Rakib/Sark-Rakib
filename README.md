@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Rakib Sarker
+#  Hey, I'm Rakib Sarker
 
 🌟 MERN Stack Developer  
 🚀 Frontend Enthusiast  
@@ -16,9 +16,11 @@
 
 ## 💫 About Me
 
-A passionate **MERN Stack Developer** from Bangladesh, focused on building modern, responsive, and high-performance web applications using **React, Next.js, Node.js, and MongoDB**.
+I'm a Frontend Developer passionate about building modern, responsive, and user-friendly web applications.
 
-I enjoy turning ideas into real-world products with clean UI and scalable backend systems.
+My core expertise includes React.js, Next.js, JavaScript (ES6+) and Tailwind CSS, with a strong focus on creating clean, accessible, and high-performance user interfaces. I also have practical experience with the MERN Stack (MongoDB, Express.js, React, and Node.js), enabling me to develop and collaborate on full-stack applications.
+
+I enjoy solving real-world problems, writing clean and maintainable code, and continuously learning new technologies to improve my skills as a developer.
 
 ---
 
