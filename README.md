@@ -1,10 +1,10 @@
 <div align="center">
 
 #  Hey, I'm Rakib Sarker
-
-🌟 MERN Stack Developer  
-🚀 Frontend Enthusiast  
-📍 Bangladesh  
+  
+Frontend Developer
+React & Next.js Enthusiast
+Exploring Full-Stack Development (MERN)
 
 </div>
 
