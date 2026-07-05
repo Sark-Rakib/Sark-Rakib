@@ -2,9 +2,9 @@
 
 #  Hey, I'm Rakib Sarker
   
-💻 Frontend Developer<br>
-⚛️ React & Next.js Enthusiast<br>
-🌱 Exploring Full-Stack Development (MERN)
+Frontend Developer<br>
+React & Next.js Enthusiast<br>
+Exploring Full-Stack Development (MERN)
 
 </div>
 
@@ -46,6 +46,12 @@ I enjoy solving real-world problems, writing clean and maintainable code, and co
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
+
+## 📊 GitHub Stats
+
+![Rakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ## 🌐 Connect With Me
 
