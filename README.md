@@ -2,9 +2,9 @@
 
 #  Hey, I'm Rakib Sarker
   
-Frontend Developer
-React & Next.js Enthusiast
-Exploring Full-Stack Development (MERN)
+💻 Frontend Developer
+⚛️ React & Next.js Enthusiast
+🌱 Exploring Full-Stack Development (MERN)
 
 </div>
 
