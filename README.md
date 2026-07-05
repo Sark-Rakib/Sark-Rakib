@@ -49,9 +49,9 @@ I enjoy solving real-world problems, writing clean and maintainable code, and co
 
 ## 📊 GitHub Stats
 
-![Rakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sark-Rakib&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sark-Rakib&show_icons=true&theme=transparent&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sark-Rakib&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sark-Rakib&layout=compact&theme=transparent&hide_border=true)
 
 ## 🌐 Connect With Me
 
