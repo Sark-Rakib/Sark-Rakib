@@ -62,19 +62,6 @@ I also have practical experience with the **MERN Stack (MongoDB, Express.js, Rea
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sark-Rakib&show_icons=true&theme=transparent&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sark-Rakib&layout=compact&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Sark-Rakib&theme=transparent&hide_border=true"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
